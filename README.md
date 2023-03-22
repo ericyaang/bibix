@@ -3,12 +3,13 @@
 - Using python 3.10.0
 - create virtual environment
 - create basic files (README.md, .gitignore, etc)
-
-Sobre a base de dados. Temos 4 data frames:
-
+- install packages and create requirements.txt via `pip freeze > requirements.txt`
+- import and clean data with `clean-data.ipynb`
+- exploration aswering some questions with `eda.ipynb`
 
 # Overview
-Temos 4 tabelas:
+
+
 ## Dados de venda
 - ID: identificador único de uma venda
 - ProductID: identificador único de um produto
@@ -37,4 +38,5 @@ Temos 4 tabelas:
 - Name: nome de um produto
 - Size: tamanho de um produto
 
-![União]('/img/data_columns.png')
+## Merge logic
+![esquema](img/data_columns.png)
