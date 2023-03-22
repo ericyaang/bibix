@@ -6,9 +6,6 @@ __pycache__/
 #mlflow
 /mlruns
 
-# notebooks
-*.ipynb
-
 # KML extensions
 *.kml
 
