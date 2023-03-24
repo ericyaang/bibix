@@ -38,5 +38,5 @@
 - Name: nome de um produto
 - Size: tamanho de um produto
 
-## Merge logic
+## Data schema
 ![esquema](img/data_columns.png)
